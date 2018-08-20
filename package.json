@@ -1,0 +1,22 @@
+{
+  "name": "webpackclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "fh",
+  "license": "ISC",
+  "devDependencies": {
+    "bable-loader": "0.0.1-security",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.22.1",
+    "url-loader": "^1.1.1",
+    "webpack": "^4.16.5"
+  },
+  "dependencies": {}
+}
